@@ -4,10 +4,10 @@ A Swift implementation approach for communication with ambilight software [Hyper
 
 ### Deployment targets
 
-- iOS 13.0 and above
-- macOS 10.15 and above
-- tvOS 13.0 and above
-- watchOS 6.0 and above
+- iOS 14.0 and above
+- macOS 11.00 and above
+- tvOS 14.0 and above
+- watchOS 7.0 and above
 
 ### Swift Package Manager
 
